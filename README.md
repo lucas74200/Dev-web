@@ -1,5 +1,2 @@
 # Dev-web
-Projet dev web
-bonjour
-salut ca va
-test test test
+Bonjour, je m'appelle Lucas et je suis une grosse merde
